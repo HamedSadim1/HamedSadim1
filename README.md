@@ -246,22 +246,22 @@ I'm **Hamed Sadim**, a motivated Full-Stack Web Developer studying at AP Univers
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60"/><br>
 <b>Next.js Projects</b><br>
-<sub>Building scalable web apps<br>with modern architecture</sub>
+<sub>Building scalable web apps<br>with App Router</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60"/><br>
 <b>TypeScript Expert</b><br>
-<sub>Type-safe code<br>& best practices</sub>
+<sub>Type-safe development<br>& best practices</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60"/><br>
-<b>Database Design</b><br>
-<sub>SQL & NoSQL<br>optimization</sub>
+<b>MongoDB & Prisma</b><br>
+<sub>NoSQL databases<br>& ORM integration</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60"/><br>
-<b>DevOps & CI/CD</b><br>
-<sub>Docker, Git<br>& deployment</sub>
+<b>Docker & DevOps</b><br>
+<sub>Containerization<br>& deployment</sub>
 </td>
 </tr>
 </table>
