@@ -17,13 +17,13 @@
 
 ## Hello, I'm Hamed 👋
 
-I'm a **Full-Stack Web Developer** based in Antwerp, Belgium. I enjoy turning ideas into reliable, accessible and visually polished web applications.
+I'm a **Full-Stack Web Developer** based in Antwerp, Belgium. I enjoy turning ideas into reliable, accessible, and visually polished web applications.
 
-My main focus is modern JavaScript development with **Next.js**, **React** and **TypeScript**, complemented by backend experience with **.NET**, **Node.js** and relational and NoSQL databases.
+My main focus is modern JavaScript development with **Next.js**, **React**, and **TypeScript**, complemented by backend experience with **.NET**, **Node.js**, and both relational and NoSQL databases.
 
-- 🎓 Graduated in Programming at AP University College Antwerp (2026)
-- 💼 Full-Stack development experience at [Adomate](https://www.adomate.com/about)
-- 🧩 Interested in scalable architecture, clean code and thoughtful UI/UX
+- 🎓 Graduated with a degree in Programming from AP University College Antwerp (2026)
+- 💼 Full-Stack development experience with [Adomate](https://www.adomate.com/about)
+- 🧩 Interested in scalable architecture, clean code, and thoughtful UI/UX
 - 🤝 Open to collaborating on meaningful products and open-source projects
 
 ## Tech stack
@@ -51,13 +51,13 @@ My main focus is modern JavaScript development with **Next.js**, **React** and *
 
 ### [Issue Tracker](https://github.com/HamedSadim1/issue-tracker)
 
-A full-stack project-management application for tracking bugs and tasks.
+A full-stack project management application for tracking bugs and tasks.
 
 `Next.js` `TypeScript` `Prisma` `MongoDB` `Tailwind CSS`
 
-- CRUD workflows for issues, labels, priorities and assignments
+- CRUD workflows for issues, labels, priorities, and assignments
 - Analytics dashboard with filtering and sorting
-- Responsive interface with dark-mode support
+- Responsive interface with dark mode support
 
 [Live demo](https://issue-tracker-iota-neon.vercel.app) · [Source code](https://github.com/HamedSadim1/issue-tracker)
 
@@ -81,7 +81,7 @@ A responsive portfolio website showcasing my work, skills and experience.
 
 [Visit the portfolio](https://hamedsadim-portfolio.vercel.app)
 
-## What I'm learning
+## What I'm currently learning
 
 - Building maintainable full-stack systems with Next.js and .NET
 - Designing scalable APIs and data models
